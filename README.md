@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AustinO47
-- 👀 I’m interested in the backend, 
+- 👀 I’m interested in the backend 
 - 🌱 I’m currently learning NodeJS, Express, React
 - 📫 How to reach me olivarezaustin@yahoo.com
 
